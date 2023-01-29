@@ -1,4 +1,4 @@
-### My firrst NodeJS and ExpressJS project
+# My first NodeJS and ExpressJS project
 This is my first NodeJS and ExpressJS project. I am using this project to learn how to build scalable backend apps using NodeJS and ExpressJS. I am also using this project to learn how to use MongoDB as a database for my web application.
 I used the following resources to learn how to build this project:
 - [NodeJS](https://nodejs.org/en/)
