@@ -19,6 +19,7 @@ This project also works as a CRUD backend application for a blog. It allows user
 ## Installation
 
 ```bash
+git clone https://github.com/frankudoags/node-express-intro.git
 npm install
 ```
 
